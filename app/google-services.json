@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676463128143",
+    "project_id": "wasabie-35ecc",
+    "storage_bucket": "wasabie-35ecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676463128143:android:619e481bc94b95a089c43a",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrmU8Qfa0pFGN5qziG9fDw89pk20gEU_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

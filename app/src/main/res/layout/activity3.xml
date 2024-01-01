@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="#FC0C1447"
+    android:theme="@style/MaterialAlertDialog.Material3.Title.Panel"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:layout_margin="20sp"
+        android:text="  technician here .... "
+        android:textAllCaps="true"
+        android:textColor="#FAFDD966"
+        android:textSize="32sp"
+        android:background="@drawable/bg"
+        android:textStyle="italic|bold">
+
+    </TextView>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="20dp"
+            android:textSize="28sp"
+            android:padding="5dp"
+            android:textStyle="bold"
+            android:textAlignment="textStart"
+            android:background="#C8E6C9"
+            android:text="tech.Sunil Yadav" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginStart="20sp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="20dp"
+            android:textSize="28dp"
+            android:padding="5dp"
+            android:textStyle="bold"
+            android:textAlignment="textStart"
+            android:background="#FCE1BEE7"
+            android:text="tech.RAVI sharma " />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="20dp"
+            android:textSize="28dp"
+            android:padding="5dp"
+            android:textStyle="bold"
+            android:textAlignment="textStart"
+            android:background="#D1C4E9"
+            android:text="tech.ARUN gupta" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="20dp"
+            android:background="#B2DFDB"
+            android:padding="5dp"
+            android:text="tech.JAY shankar "
+            android:textAlignment="textStart"
+            android:textSize="28dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="20dp"
+            android:background="#B2EBF2"
+            android:padding="5dp"
+            android:text="tech.VEER singh"
+            android:textAlignment="textStart"
+            android:textSize="28dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="20dp"
+            android:background="#F8BBD0"
+            android:padding="5dp"
+            android:text="tech.ROHAN mehra"
+            android:textAlignment="textStart"
+            android:textSize="28dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="20dp"
+            android:background="#F0F4C3"
+            android:padding="5dp"
+            android:text="tech.KARAN kabir"
+            android:textAlignment="textStart"
+            android:textSize="28dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="20dp"
+            android:textSize="28dp"
+            android:padding="5dp"
+            android:textStyle="bold"
+            android:textAlignment="textStart"
+            android:background="#FFE0B2"
+            android:text="tech.GAURAV pawar" />
+        <Button
+            android:id="@+id/button9"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="20dp"
+            android:textSize="28dp"
+            android:padding="5dp"
+            android:textStyle="bold"
+            android:textAlignment="textStart"
+            android:background="#FFF9C4"
+            android:text="tech.RAJ yadav" />
+
+        <Button
+            android:id="@+id/button10"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="20dp"
+            android:textSize="28dp"
+            android:padding="5dp"
+            android:textStyle="bold"
+            android:textAlignment="textStart"
+            android:background="#C8E6C9"
+            android:text="tech.AJAY MEHTA" />
+
+        <Button
+            android:id="@+id/button11"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="20dp"
+            android:textSize="28sp"
+            android:padding="5dp"
+            android:textStyle="bold"
+            android:textAlignment="textStart"
+            android:background="#FFF3E0"
+            android:text="tech.TUSHAR SHARMA " />
+
+    </LinearLayout>
+</ScrollView>
+</LinearLayout>

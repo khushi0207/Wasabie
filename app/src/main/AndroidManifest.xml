@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/logo"
+        android:label="Wasabie"
+        android:roundIcon="@mipmap/logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FirstApp"
+        tools:targetApi="31">
+        <activity
+            android:name=".ActivityAccount"
+            android:exported="false"
+            android:label="@string/title_activity_account"
+            android:theme="@style/Theme.FirstApp" />
+        <activity
+            android:name=".AccountActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity15"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity14"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity13"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity12"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity11"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity10"
+            android:exported="false"
+            android:label="@string/title_activity_main9"
+            android:theme="@style/Theme.FirstApp" />
+        <activity
+            android:name=".MainActivity9"
+            android:exported="false"
+            android:label="@string/title_activity_main9"
+            android:theme="@style/Theme.FirstApp" />
+        <activity
+            android:name=".MainActivity8"
+            android:exported="false"
+            android:label="@string/title_activity_main8"
+            android:theme="@style/Theme.FirstApp" />
+        <activity
+            android:name=".MainActivity7"
+            android:exported="false"
+            android:label="@string/title_activity_main7"
+            android:theme="@style/Theme.FirstApp" />
+        <activity
+            android:name=".MainActivity6"
+            android:exported="false"
+            android:label="@string/title_activity_main6"
+            android:theme="@style/Theme.FirstApp" />
+        <activity
+            android:name=".MainActivity5"
+            android:exported="false"
+            android:label="@string/title_activity_main5"
+            android:theme="@style/Theme.FirstApp" />
+        <activity
+            android:name=".MainActivity4"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3"
+            android:exported="false"
+            android:label="@string/title_activity_main3"
+            android:theme="@style/Theme.FirstApp" />
+        <activity
+            android:name=".MainActivity1"
+            android:exported="true"
+            android:label="@string/title_activity_main4"
+            android:theme="@style/Theme.FirstApp">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/title_activity_main"
+            android:theme="@style/Theme.FirstApp" />
+        <activity
+            android:name=".rate_us"
+            android:exported="false"
+            android:label="@string/title_activity_rate_us"
+            android:theme="@style/Theme.FirstApp" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/Theme.FirstApp" />
+        <activity
+            android:name=".signUp"
+            android:exported="false"
+            android:label="@string/title_activity_sign_up"
+            android:theme="@style/Theme.FirstApp" />
+        <activity
+            android:name=".login"
+            android:exported="true"
+            android:label="@string/title_activity_login"
+            android:theme="@style/Theme.FirstApp" />
+    </application>
+
+</manifest>

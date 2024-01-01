@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">firstApp</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_login">login</string>
+    <string name="title_activity_sign_up">signUp</string>
+    <string name="title_activity_main3">mainActivity3</string>
+    <string name="title_activity_main4">MainActivity4</string>
+    <string name="title_activity_main5">MainActivity5</string>
+    <string name="title_activity_rate_us">rate_us</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_splash">splash</string>
+    <string name="title_activity_main1">MainActivity1</string>
+    <string name="title_activity_wasabie">Wasabie</string>
+    <string name="title_activity_main6">MainActivity6</string>
+    <string name="title_activity_main7">MainActivity7</string>
+    <string name="title_activity_main8">MainActivity8</string>
+    <string name="title_activity_main9">MainActivity9</string>
+    <string name="title_activity_account">ActivityAccount</string>
+</resources>
